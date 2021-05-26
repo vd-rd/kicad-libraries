@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MT41K512M16HA
+D 8Gb (512Mx16 bit) Double Data Rate 3 Low Power Synchronous DRAM
+K DDR3L DRAM MEMORY
+$ENDCMP
+#
+#End Doc Library

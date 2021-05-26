@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP32-S2-WROOM
+D RF Module, ESP32-S2 SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.7-3.6V, onboard antenna, SMD
+K RF Radio BT ESP ESP32 Espressif onboard PCB antenna
+$ENDCMP
+#
+$CMP ESP32-S2-WROOM-I
+D RF Module, ESP32-S2 SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.7-3.6V, onboard antenna, iPEX, SMD
+K RF Radio BT ESP ESP32 Espressif onboard iPEX PCB antenna
+F https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DDR4-260pin
+D SODIMM 200 Pin socket
+K SODIMM SO-DIMM DDR1 DDR2
+F ~
+$ENDCMP
+#
+#End Doc Library

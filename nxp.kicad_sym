@@ -5252,7 +5252,7 @@
       (rectangle (start -10.16 -2.54) (end 15.24 -142.24)
         (stroke (width 0.1524)) (fill (type background))
       )
-      (pin power_in line (at -15.24 -139.7 0) (length 5.08) hide
+      (pin power_in line (at -15.24 -139.7 0) (length 5.08)
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "A1" (effects (font (size 1.27 1.27))))
       )

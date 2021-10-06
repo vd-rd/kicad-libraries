@@ -6,7 +6,7 @@
     (property "Value" "AP6255" (id 1) (at 0 3.81 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (id 2) (at 0 0 0)
+    (property "Footprint" "sdio:lga44_12x12mm_P0.9" (id 2) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0)

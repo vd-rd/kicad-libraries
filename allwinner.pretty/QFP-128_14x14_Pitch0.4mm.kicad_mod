@@ -1,5 +1,5 @@
-(footprint "QFP-128_14x14_Pitch0.4mm" (version 20210824) (generator pcbnew) (layer "F.Cu")
-  (tedit 615BF9F7)
+(footprint "QFP-128_14x14_Pitch0.4mm" (version 20211014) (generator pcbnew) (layer "F.Cu")
+  (tedit 61767992)
   (attr through_hole)
   (fp_text reference "REF**" (at 0 -9.1) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -181,4 +181,9 @@
   (pad "129" thru_hole circle (at 1.5 0 90) (size 1 1) (drill 0.6) (layers *.Cu *.Mask) (tstamp e9c79271-be6f-4682-b2c8-a493b4ccc55d))
   (pad "129" thru_hole circle (at 3 3 90) (size 1 1) (drill 0.6) (layers *.Cu *.Mask) (tstamp ec380f90-5632-4b38-9d24-ba706e5b01fc))
   (pad "129" thru_hole circle (at -3 1.5 180) (size 1 1) (drill 0.6) (layers *.Cu *.Mask) (tstamp ff1283c3-ed2a-41f5-beab-db4794142c2d))
+  (model "${KICAD_USER_LIBS}/allwinner.pretty/QFP40P1600X1600X160-129T800N.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

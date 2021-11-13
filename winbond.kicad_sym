@@ -1,4 +1,4 @@
-(kicad_symbol_lib (version 20210619) (generator kicad_symbol_editor)
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
   (symbol "winbond:DDR2-x16" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 0 0)
       (effects (font (size 1.27 1.27)))
@@ -69,7 +69,7 @@
         (name "DQ1" (effects (font (size 1.27 1.27))))
         (number "G2" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at -12.7 -71.12 0) (length 5.08)
+      (pin passive line (at -12.7 -71.12 0) (length 5.08) hide
         (name "VDDQ" (effects (font (size 1.27 1.27))))
         (number "G3" (effects (font (size 1.27 1.27))))
       )
@@ -81,7 +81,7 @@
         (name "DQ0" (effects (font (size 1.27 1.27))))
         (number "G8" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at -12.7 -71.12 0) (length 5.08)
+      (pin passive line (at -12.7 -71.12 0) (length 5.08) hide
         (name "VDDQ" (effects (font (size 1.27 1.27))))
         (number "G9" (effects (font (size 1.27 1.27))))
       )
@@ -89,7 +89,7 @@
         (name "DQ4" (effects (font (size 1.27 1.27))))
         (number "H1" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at -12.7 -81.28 0) (length 5.08)
+      (pin passive line (at -12.7 -81.28 0) (length 5.08) hide
         (name "VSSQ" (effects (font (size 1.27 1.27))))
         (number "H2" (effects (font (size 1.27 1.27))))
       )
@@ -256,7 +256,8 @@
     )
     (symbol "DDR2-x16_0_1"
       (rectangle (start -7.62 -1.27) (end 7.62 -86.36)
-        (stroke (width 0.1524)) (fill (type background))
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "DDR2-x16_1_1"
@@ -373,7 +374,8 @@
     )
     (symbol "DDR3L-x16_0_1"
       (rectangle (start -7.62 49.53) (end 7.62 -36.83)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "DDR3L-x16_1_1"
@@ -778,7 +780,8 @@
     )
     (symbol "DDR3L-x8_0_1"
       (rectangle (start -8.89 49.53) (end 7.62 -58.42)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "DDR3L-x8_1_1"
@@ -1111,7 +1114,8 @@
     )
     (symbol "DDR4-x16_0_1"
       (rectangle (start -8.89 49.53) (end 7.62 -36.83)
-        (stroke (width 0)) (fill (type background))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "DDR4-x16_1_1"
@@ -1758,7 +1762,8 @@
     )
     (symbol "LPDDR3-x32_0_1"
       (rectangle (start -10.16 0) (end 8.89 -114.3)
-        (stroke (width 0.1524)) (fill (type background))
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "LPDDR3-x32_1_1"
@@ -2266,7 +2271,8 @@
     )
     (symbol "SDRAM-x16-BGA_0_1"
       (rectangle (start -10.16 33.02) (end 10.16 -33.02)
-        (stroke (width 0.254)) (fill (type background))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "SDRAM-x16-BGA_1_1"

@@ -1,5 +1,6 @@
-(footprint "BGA-541_25x25_19.0x19.0mm" (version 20210424) (generator pcbnew) (layer "F.Cu")
-  (tedit 60BCEC2F)
+(footprint "BGA-541_25x25_19.0x19.0mm" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 619E0ACC)
   (tags "i.mx7 imx7 mcimx7")
   (solder_mask_margin 0.05)
   (attr smd)
@@ -575,4 +576,9 @@
   (pad "Y23" smd circle (at 7.5 5.25) (size 0.35 0.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp bde49f4f-587a-4df2-bfa9-3b8c04df23a8))
   (pad "Y24" smd circle (at 8.25 5.25) (size 0.35 0.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp bde49f4f-587a-4df2-bfa9-3b8c04df23a8))
   (pad "Y25" smd circle (at 9 5.25) (size 0.35 0.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp bde49f4f-587a-4df2-bfa9-3b8c04df23a8))
+  (model "${KICAD_USER_LIBS}/nxp.pretty/MCIMX7D7DVM10SD.STEP"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

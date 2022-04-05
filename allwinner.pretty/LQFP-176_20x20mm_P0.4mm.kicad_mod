@@ -1,6 +1,10 @@
 (footprint "LQFP-176_20x20mm_P0.4mm" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
+<<<<<<< Updated upstream
   (tedit 62149BD0)
+=======
+  (tedit 62499310)
+>>>>>>> Stashed changes
   (descr "LQFP, 176 Pin (https://www.onsemi.com/pub/Collateral/566DB.PDF), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "LQFP QFP")
   (attr smd)
@@ -36,6 +40,22 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp a4b67931-ac68-4737-9998-6c7a0af8cda6)
   )
+  (fp_rect (start -1.9 -2.1) (end -0.1 -2.7) (layer "F.Paste") (width 0) (fill solid) (tstamp 1550eec9-61b8-4a78-9169-ce138015a6a4))
+  (fp_rect (start 0.1 -2.1) (end 1.9 -2.7) (layer "F.Paste") (width 0) (fill solid) (tstamp 23adc280-7bed-4b43-8a2b-bde543d4ad17))
+  (fp_rect (start -2.1 1.9) (end -2.7 0.1) (layer "F.Paste") (width 0) (fill solid) (tstamp 2b1f2bc8-b4b1-4a84-9fea-d893b3b00aac))
+  (fp_rect (start -0.1 2.1) (end -1.9 2.7) (layer "F.Paste") (width 0) (fill solid) (tstamp 2c80fb3a-0990-4332-b80d-5e5a74625151))
+  (fp_rect (start 2.1 -1.9) (end 2.7 -0.1) (layer "F.Paste") (width 0) (fill solid) (tstamp 46d42ec2-41a1-4900-9741-6b632d1e4aaf))
+  (fp_rect (start -1.9 0.1) (end -0.1 1.9) (layer "F.Paste") (width 0) (fill solid) (tstamp 51b7c265-622e-4c76-85e5-2aaf1ef4f312))
+  (fp_rect (start 1.9 2.1) (end 0.1 2.7) (layer "F.Paste") (width 0) (fill solid) (tstamp 7076bd80-b559-4624-a298-c38500db90fb))
+  (fp_rect (start 2.1 2.1) (end 2.7 2.7) (layer "F.Paste") (width 0) (fill solid) (tstamp 71d969c8-fe88-46a9-a822-fece1090340b))
+  (fp_rect (start 0.1 -1.9) (end 1.9 -0.1) (layer "F.Paste") (width 0) (fill solid) (tstamp 7bcd7ab2-4b76-48c3-a5ee-d32473262a3d))
+  (fp_rect (start 2.1 -2.7) (end 2.7 -2.1) (layer "F.Paste") (width 0) (fill solid) (tstamp 8eff2830-2ece-4c3b-8536-54def5632bac))
+  (fp_rect (start -2.1 -0.1) (end -2.7 -1.9) (layer "F.Paste") (width 0) (fill solid) (tstamp 90232a28-7bf8-4c3d-a8fc-9c03e987cb12))
+  (fp_rect (start 0.1 0.1) (end 1.9 1.9) (layer "F.Paste") (width 0) (fill solid) (tstamp 9d9acce0-a50d-4b40-bd33-591837a34d0f))
+  (fp_rect (start -2.7 -2.7) (end -2.1 -2.1) (layer "F.Paste") (width 0) (fill solid) (tstamp ac693de2-2bdf-47ce-bf98-1829abae1ab8))
+  (fp_rect (start -1.9 -1.9) (end -0.1 -0.1) (layer "F.Paste") (width 0) (fill solid) (tstamp b52854e8-cf93-413f-a1ee-afcfa16fb2be))
+  (fp_rect (start 2.1 0.1) (end 2.7 1.9) (layer "F.Paste") (width 0) (fill solid) (tstamp e00eea7d-e398-464a-ae33-eec95c233325))
+  (fp_rect (start -2.7 2.1) (end -2.1 2.7) (layer "F.Paste") (width 0) (fill solid) (tstamp f13d4e02-809d-452f-86c6-ea89c35b24ca))
   (fp_line (start 7.6 11.65) (end 7.6 11.95) (layer "F.SilkS") (width 0.12) (tstamp 097aed7f-15cd-4bc6-a697-f0499ea9ca60))
   (fp_line (start -4.4 11.7) (end -4.4 12) (layer "F.SilkS") (width 0.12) (tstamp 09998c96-e70f-495e-a28b-d583abac9daf))
   (fp_line (start -10.11 10.11) (end -10.11 8.96) (layer "F.SilkS") (width 0.12) (tstamp 0ab151e9-ff30-45e0-bf25-d326eac069f2))
@@ -287,7 +307,11 @@
   (pad "174" smd roundrect (at -7.8 -10.7125) (size 0.2 1.475) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp dc8674ce-411d-42ec-aae9-d89fac133067))
   (pad "175" smd roundrect (at -8.2 -10.7125) (size 0.2 1.475) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 81a1af2a-a778-43b8-a202-61e23fe78a42))
   (pad "176" smd roundrect (at -8.6 -10.7125) (size 0.2 1.475) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 4c615b40-0918-4400-a251-74cbcf411adf))
+<<<<<<< Updated upstream
   (pad "177" smd rect (at 0 0) (size 7 7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 02b9d5aa-d4b6-4c61-aecf-f17dcedaa3c1))
+=======
+  (pad "177" smd rect (at 0 0) (size 6 6) (layers "F.Cu" "F.Mask") (tstamp 02b9d5aa-d4b6-4c61-aecf-f17dcedaa3c1))
+>>>>>>> Stashed changes
   (pad "177" thru_hole circle (at -2 2) (size 0.9 0.9) (drill 0.6) (layers *.Cu *.Mask) (tstamp 06fd02ee-de28-4e03-ae43-8674548d0c91))
   (pad "177" thru_hole circle (at 0 2) (size 0.9 0.9) (drill 0.6) (layers *.Cu *.Mask) (tstamp 3aeb6cd4-c5f9-4dfd-9ca2-9f68383d8ff1))
   (pad "177" thru_hole circle (at 2 0) (size 0.9 0.9) (drill 0.6) (layers *.Cu *.Mask) (tstamp 4a8e07f8-f348-433a-8ad0-645811116987))

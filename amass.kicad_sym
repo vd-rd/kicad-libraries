@@ -91,17 +91,6 @@
 					(type none)
 				)
 			)
-			(circle
-				(center 0 0)
-				(radius 1.016)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
 			(polyline
 				(pts
 					(xy -1.27 -10.16) (xy -1.27 -9.525)
@@ -167,6 +156,17 @@
 					(xy 2.54 2.54) (xy 2.54 -6.35) (xy 1.27 -7.62) (xy -1.27 -7.62) (xy -2.54 -6.35) (xy -2.54 -3.175)
 					(xy -1.27 -3.175) (xy -1.27 -1.905) (xy -2.54 -1.905) (xy -2.54 2.54) (xy 2.54 2.54)
 				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 0 0)
+				(radius 1.016)
 				(stroke
 					(width 0)
 					(type default)
@@ -275,6 +275,190 @@
 						(font
 							(size 1.27 1.27)
 						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "XT60"
+		(pin_names hide)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "J"
+			(at 0 8.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "XT60"
+			(at 0 6.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_AMASS:AMASS_XT60PW-F_1x02_P7.20mm_Horizontal"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -10.414 3.556 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "amass xt60 connector"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "Jack*XLR*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "XT60_0_1"
+			(circle
+				(center 0 -5.08)
+				(radius 1.016)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.54 -5.08) (xy 1.27 -5.08)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.54 0) (xy 1.27 0)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.54 2.54) (xy 2.54 -6.35) (xy 1.27 -7.62) (xy -1.27 -7.62) (xy -2.54 -6.35) (xy -2.54 -3.175)
+					(xy -1.27 -3.175) (xy -1.27 -1.905) (xy -2.54 -1.905) (xy -2.54 2.54) (xy 2.54 2.54)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 0 0)
+				(radius 1.016)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin passive line
+				(at 5.08 -5.08 180)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 5.08 0 180)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(symbol "XT60_1_1"
+			(text "+"
+				(at -1.8002 0.0725 0)
+				(effects
+					(font
+						(size 1.016 1.016)
+						(bold yes)
+					)
+				)
+			)
+			(text "-"
+				(at -1.8002 -5.0748 0)
+				(effects
+					(font
+						(size 1.016 1.016)
+						(bold yes)
 					)
 				)
 			)

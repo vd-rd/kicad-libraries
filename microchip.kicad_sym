@@ -60792,7 +60792,7 @@
 				)
 			)
 			(pin passive line
-				(at -5.08 -74.93 0)
+				(at -5.08 -76.2 0)
 				(length 5.08)
 				(name "DDR_BA0"
 					(effects
@@ -60810,9 +60810,9 @@
 				)
 			)
 			(pin passive line
-				(at -5.08 -77.47 0)
+				(at -5.08 -78.74 0)
 				(length 5.08)
-				(name "DDR__BA1"
+				(name "DDR_BA1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -60828,7 +60828,7 @@
 				)
 			)
 			(pin passive line
-				(at -5.08 -80.01 0)
+				(at -5.08 -81.28 0)
 				(length 5.08)
 				(name "DDR_BA2"
 					(effects

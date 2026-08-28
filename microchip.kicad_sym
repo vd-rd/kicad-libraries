@@ -74,7 +74,7 @@
 		(symbol "AT91SAM9G10_1_0"
 			(pin passive line
 				(at -6.35 -36.83 0)
-				(length 2.54)
+				(length 3.81)
 				(name "PA30"
 					(effects
 						(font
@@ -92,7 +92,7 @@
 			)
 			(pin passive line
 				(at -6.35 -29.21 0)
-				(length 2.54)
+				(length 3.81)
 				(name "PA27"
 					(effects
 						(font
@@ -110,7 +110,7 @@
 			)
 			(pin passive line
 				(at -6.35 -39.37 0)
-				(length 2.54)
+				(length 3.81)
 				(name "PA31"
 					(effects
 						(font
@@ -128,7 +128,7 @@
 			)
 			(pin passive line
 				(at -6.35 -24.13 0)
-				(length 2.54)
+				(length 3.81)
 				(name "PA25"
 					(effects
 						(font
@@ -146,7 +146,7 @@
 			)
 			(pin passive line
 				(at -6.35 -26.67 0)
-				(length 2.54)
+				(length 3.81)
 				(name "PA26"
 					(effects
 						(font
@@ -164,7 +164,7 @@
 			)
 			(pin passive line
 				(at -6.35 -31.75 0)
-				(length 2.54)
+				(length 3.81)
 				(name "PA28"
 					(effects
 						(font
@@ -182,7 +182,7 @@
 			)
 			(pin passive line
 				(at -6.35 -34.29 0)
-				(length 2.54)
+				(length 3.81)
 				(name "PA29"
 					(effects
 						(font
@@ -200,7 +200,7 @@
 			)
 			(pin passive line
 				(at -6.35 -16.51 0)
-				(length 2.54)
+				(length 3.81)
 				(name "PA22"
 					(effects
 						(font
@@ -218,7 +218,7 @@
 			)
 			(pin passive line
 				(at -6.35 -13.97 0)
-				(length 2.54)
+				(length 3.81)
 				(name "PA21"
 					(effects
 						(font
@@ -236,7 +236,7 @@
 			)
 			(pin passive line
 				(at -6.35 -19.05 0)
-				(length 2.54)
+				(length 3.81)
 				(name "PA23"
 					(effects
 						(font
@@ -254,7 +254,7 @@
 			)
 			(pin passive line
 				(at -6.35 -21.59 0)
-				(length 2.54)
+				(length 3.81)
 				(name "PA24"
 					(effects
 						(font
@@ -272,7 +272,7 @@
 			)
 			(pin passive line
 				(at -6.35 31.75 0)
-				(length 2.54)
+				(length 3.81)
 				(name "PA3"
 					(effects
 						(font
@@ -290,7 +290,7 @@
 			)
 			(pin passive line
 				(at -6.35 1.27 0)
-				(length 2.54)
+				(length 3.81)
 				(name "PA15"
 					(effects
 						(font
@@ -308,7 +308,7 @@
 			)
 			(pin passive line
 				(at -6.35 -1.27 0)
-				(length 2.54)
+				(length 3.81)
 				(name "PA16"
 					(effects
 						(font
@@ -326,7 +326,7 @@
 			)
 			(pin passive line
 				(at -6.35 -8.89 0)
-				(length 2.54)
+				(length 3.81)
 				(name "PA19"
 					(effects
 						(font
@@ -344,7 +344,7 @@
 			)
 			(pin passive line
 				(at -6.35 -11.43 0)
-				(length 2.54)
+				(length 3.81)
 				(name "PA20"
 					(effects
 						(font
@@ -362,7 +362,7 @@
 			)
 			(pin passive line
 				(at -6.35 39.37 0)
-				(length 2.54)
+				(length 3.81)
 				(name "PA0"
 					(effects
 						(font
@@ -380,7 +380,7 @@
 			)
 			(pin passive line
 				(at -6.35 21.59 0)
-				(length 2.54)
+				(length 3.81)
 				(name "PA7"
 					(effects
 						(font
@@ -398,7 +398,7 @@
 			)
 			(pin passive line
 				(at -6.35 13.97 0)
-				(length 2.54)
+				(length 3.81)
 				(name "PA10"
 					(effects
 						(font
@@ -416,7 +416,7 @@
 			)
 			(pin passive line
 				(at -6.35 6.35 0)
-				(length 2.54)
+				(length 3.81)
 				(name "PA13"
 					(effects
 						(font
@@ -434,7 +434,7 @@
 			)
 			(pin passive line
 				(at -6.35 -3.81 0)
-				(length 2.54)
+				(length 3.81)
 				(name "PA17"
 					(effects
 						(font
@@ -452,7 +452,7 @@
 			)
 			(pin passive line
 				(at -6.35 -6.35 0)
-				(length 2.54)
+				(length 3.81)
 				(name "PA18"
 					(effects
 						(font
@@ -470,7 +470,7 @@
 			)
 			(pin passive line
 				(at -6.35 36.83 0)
-				(length 2.54)
+				(length 3.81)
 				(name "PA1"
 					(effects
 						(font
@@ -488,7 +488,7 @@
 			)
 			(pin passive line
 				(at -6.35 29.21 0)
-				(length 2.54)
+				(length 3.81)
 				(name "PA4"
 					(effects
 						(font
@@ -506,7 +506,7 @@
 			)
 			(pin passive line
 				(at -6.35 24.13 0)
-				(length 2.54)
+				(length 3.81)
 				(name "PA6"
 					(effects
 						(font
@@ -524,7 +524,7 @@
 			)
 			(pin passive line
 				(at -6.35 19.05 0)
-				(length 2.54)
+				(length 3.81)
 				(name "PA8"
 					(effects
 						(font
@@ -542,7 +542,7 @@
 			)
 			(pin passive line
 				(at -6.35 11.43 0)
-				(length 2.54)
+				(length 3.81)
 				(name "PA11"
 					(effects
 						(font
@@ -560,7 +560,7 @@
 			)
 			(pin passive line
 				(at -6.35 3.81 0)
-				(length 2.54)
+				(length 3.81)
 				(name "PA14"
 					(effects
 						(font
@@ -578,7 +578,7 @@
 			)
 			(pin passive line
 				(at -6.35 34.29 0)
-				(length 2.54)
+				(length 3.81)
 				(name "PA2"
 					(effects
 						(font
@@ -596,7 +596,7 @@
 			)
 			(pin passive line
 				(at -6.35 26.67 0)
-				(length 2.54)
+				(length 3.81)
 				(name "PA5"
 					(effects
 						(font
@@ -614,7 +614,7 @@
 			)
 			(pin passive line
 				(at -6.35 8.89 0)
-				(length 2.54)
+				(length 3.81)
 				(name "PA12"
 					(effects
 						(font
@@ -632,7 +632,7 @@
 			)
 			(pin passive line
 				(at -6.35 16.51 0)
-				(length 2.54)
+				(length 3.81)
 				(name "PA9"
 					(effects
 						(font
@@ -651,8 +651,8 @@
 		)
 		(symbol "AT91SAM9G10_1_1"
 			(rectangle
-				(start -3.81 40.64)
-				(end 3.81 -40.64)
+				(start -2.54 41.91)
+				(end 3.81 -41.91)
 				(stroke
 					(width 0.1524)
 					(type default)
@@ -1242,8 +1242,8 @@
 		)
 		(symbol "AT91SAM9G10_2_1"
 			(rectangle
-				(start -3.81 40.64)
-				(end 3.81 -40.64)
+				(start -3.81 41.91)
+				(end 6.35 -41.91)
 				(stroke
 					(width 0.1524)
 					(type default)
@@ -51351,6 +51351,24 @@
 					)
 				)
 				(number "C3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -8.89 30.48 0)
+				(length 5.08)
+				(name "VDDSPI"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "C6"
 					(effects
 						(font
 							(size 1.27 1.27)
